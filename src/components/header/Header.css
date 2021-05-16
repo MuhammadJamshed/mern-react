@@ -1,0 +1,22 @@
+
+.header-inner .items img {
+    width: 200px;
+}
+.header-inner {
+       display: flex;
+       justify-content: space-between;
+       align-items: flex-end;
+
+}
+ .header-inner .items  ul {
+    list-style-type:none ;
+    display: flex;
+  
+   
+}
+ 
+
+.header-inner .items ul li 
+{
+    margin: 8px;
+}
